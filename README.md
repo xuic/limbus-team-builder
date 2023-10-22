@@ -4,7 +4,7 @@
 
 ### Basic operations
 
-Left click -> View information
+Left click -> View information (Japanese)
 
 Right click -> Add/Remove identity/e.g.o 
 
