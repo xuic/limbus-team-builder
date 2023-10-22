@@ -6,7 +6,7 @@
 
 Left click -> View information
 
-Reft click -> Add/Remove Identity/Ego 
+Right click -> Add/Remove identity/e.g.o 
 
 ### TODO
 - [x] 加入移除人格/EGO (10/15)
