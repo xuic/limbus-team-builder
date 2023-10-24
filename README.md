@@ -7,7 +7,7 @@
 1. Left click -> View information (Japanese)
 2. Right click -> Add/Remove identity/e.g.o
 
-![limbus-team-builder](https://github.com/xuic/limbus-team-builder/assets/30918659/f79755d9-7267-4a72-af8b-788c9ede85d1)
+![ezgif com-resize](https://github.com/xuic/limbus-team-builder/assets/30918659/e5211c17-7ded-4159-88d9-7ed1eb793007)
 
 ![limbus-team-builder-1](https://github.com/xuic/limbus-team-builder/assets/30918659/eec888ca-e32f-4936-b5d8-4aed38b0ebdf)
 
