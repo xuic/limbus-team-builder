@@ -5,7 +5,9 @@
 ### Basic operations
 
 1. Left click -> View information (Japanese)
-2. Right click -> Add/Remove identity/e.g.o 
+2. Right click -> Add/Remove identity/e.g.o
+
+![limbus-team-builder](https://github.com/xuic/limbus-team-builder/assets/30918659/f79755d9-7267-4a72-af8b-788c9ede85d1)
 
 ![limbus-team-builder-1](https://github.com/xuic/limbus-team-builder/assets/30918659/eec888ca-e32f-4936-b5d8-4aed38b0ebdf)
 
@@ -41,6 +43,9 @@
 - [x] 左側 EGO 資訊 (10/22)
 - [x] 即時儲存隊伍 (10/22)
 - [x] 人格搜尋過濾器 (10/23)
-- [x] 效果關鍵字說明 (10/24)
+- [x] 效果關鍵字提示 (10/24)
 - [ ] 儲存多組隊伍
 
+### Version
+- 1.1.1 修復切換 E.G.O 選擇模式時的錯誤
+- 1.1.0 實作效果關鍵字提示
